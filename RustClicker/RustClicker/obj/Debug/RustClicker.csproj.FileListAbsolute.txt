@@ -1,0 +1,11 @@
+C:\Users\poedx\source\repos\RustClicker\RustClicker\bin\Debug\RustClicker.exe.config
+C:\Users\poedx\source\repos\RustClicker\RustClicker\bin\Debug\RustClicker.exe
+C:\Users\poedx\source\repos\RustClicker\RustClicker\bin\Debug\RustClicker.pdb
+C:\Users\poedx\source\repos\RustClicker\RustClicker\obj\Debug\RustClicker.csproj.AssemblyReference.cache
+C:\Users\poedx\source\repos\RustClicker\RustClicker\obj\Debug\RustClicker.csproj.SuggestedBindingRedirects.cache
+C:\Users\poedx\source\repos\RustClicker\RustClicker\obj\Debug\RustClicker.ClickerMain.resources
+C:\Users\poedx\source\repos\RustClicker\RustClicker\obj\Debug\RustClicker.Properties.Resources.resources
+C:\Users\poedx\source\repos\RustClicker\RustClicker\obj\Debug\RustClicker.csproj.GenerateResource.cache
+C:\Users\poedx\source\repos\RustClicker\RustClicker\obj\Debug\RustClicker.csproj.CoreCompileInputs.cache
+C:\Users\poedx\source\repos\RustClicker\RustClicker\obj\Debug\RustClicker.exe
+C:\Users\poedx\source\repos\RustClicker\RustClicker\obj\Debug\RustClicker.pdb
